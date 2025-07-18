@@ -1,0 +1,2 @@
+# Ignore secrets file for nixsolar
+hosts/nixsolar/secrets.nix 
